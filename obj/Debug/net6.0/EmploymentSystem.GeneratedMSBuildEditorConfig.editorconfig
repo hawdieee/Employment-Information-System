@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = EmploymentSystem
 build_property.RootNamespace = EmploymentSystem
-build_property.ProjectDir = C:\Users\ASUS\Desktop\System\Employment-Information-System\
+build_property.ProjectDir = c:\Users\ASUS\Desktop\System\Employment-Information-System\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ASUS\Desktop\System\Employment-Information-System
+build_property.MSBuildProjectDirectory = c:\Users\ASUS\Desktop\System\Employment-Information-System
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ASUS/Desktop/System/Employment-Information-System/App.razor]
+[c:/Users/ASUS/Desktop/System/Employment-Information-System/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/System/Employment-Information-System/Pages/Counter.razor]
+[c:/Users/ASUS/Desktop/System/Employment-Information-System/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/System/Employment-Information-System/Pages/FetchData.razor]
+[c:/Users/ASUS/Desktop/System/Employment-Information-System/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/System/Employment-Information-System/Pages/Index.razor]
+[c:/Users/ASUS/Desktop/System/Employment-Information-System/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/System/Employment-Information-System/Shared/MainLayout.razor]
+[c:/Users/ASUS/Desktop/System/Employment-Information-System/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/System/Employment-Information-System/Shared/NavMenu.razor]
+[c:/Users/ASUS/Desktop/System/Employment-Information-System/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/System/Employment-Information-System/_Imports.razor]
+[c:/Users/ASUS/Desktop/System/Employment-Information-System/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
